@@ -2,7 +2,7 @@
 Schneider ATV320 Inverter Open Source AC Motor Control GUI
 
 ## 8E1 MODBUS RTU ID:1
-### WARNING: You must Edit Serial COM in Python Code. (Ex. COM12 in this app.)
+### WARNING: You must edit serial COM in Python Code. (Ex. COM12 in this app.)
 ### Control your systems serial ports.
 
 ## Application Photo
