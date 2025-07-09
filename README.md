@@ -2,7 +2,7 @@
 Schneider ATV320 Inverter Open Source AC Motor Control GUI
 
 ## 8E1 MODBUS RTU ID:1
-## WARNING: You must Read Serial COM. (Ex. COM12 in this app.)
+### WARNING: You must Read Serial COM. (Ex. COM12 in this app.)
 
 
 ## Application Photo
