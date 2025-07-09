@@ -3,6 +3,7 @@ Schneider ATV320 Inverter Open Source AC Motor Control GUI
 
 ## 8E1 MODBUS RTU ID:1
 
+## Application Photo
 ![image](https://github.com/user-attachments/assets/83716db9-f8e3-40b6-8a78-2f26a25bafb8)
 
 
@@ -10,10 +11,12 @@ Firstly This GUI was used with Schneider ATV320 inverter controller. AC asynchro
 
 ![image](https://github.com/user-attachments/assets/4eb3963a-60af-4b7a-92d9-963405e1b7c5)
 
+Once the system, programmed with ATV Logic, is started, the ID is defined. After defining the ID, the ATV320 sends a response to other devices via MODBUS. Unfortunately, the GUI does not work without defining the address; please specify the address.
 
 
 
 
+## Addresses Diagram
 | Function | Address | Type | Description |
 |---------|:--------:|:--------:|:--------:|
 | AI1     |5242   | Volt     | Analog Input 1 |
