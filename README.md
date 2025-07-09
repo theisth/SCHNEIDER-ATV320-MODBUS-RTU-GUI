@@ -7,7 +7,8 @@ Schneider ATV320 Inverter Open Source AC Motor Control Interface
 | RCC  | 3202  | Hz  |
 | DEC  | 9002  | Sec.  |
 | ACC  | 9001  | Sec.  |
-| ULN  | 3202  | Sec.  |
+| ULN  | 3207  | Volt  |
+| LCR | 3204  | Ampere  |
 
 
 
