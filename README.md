@@ -1,5 +1,13 @@
-# SCHNEIDER-ATV320-MODBUS-RTU-INTERFACE
-Schneider ATV320 Inverter Open Source AC Motor Control Interface 
+# SCHNEIDER-ATV320-MODBUS-RTU-GUI
+Schneider ATV320 Inverter Open Source AC Motor Control GUI
+8E1 MODBUS RTU ID:1
+
+
+Firstly This system
+
+
+
+
 
 | Function | Address | Type |
 |---------|:--------:|:--------:|
@@ -10,6 +18,10 @@ Schneider ATV320 Inverter Open Source AC Motor Control Interface
 | ULN  | 3207  | Volt  |
 | LCR | 3204  | Ampere  |
 
+
+
+
+For checking the addresses: https://github.com/sanny32/OpenModScan 
 
 
 
