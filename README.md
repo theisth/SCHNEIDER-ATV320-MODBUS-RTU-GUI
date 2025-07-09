@@ -15,7 +15,7 @@ Firstly This GUI was used with Schneider ATV320 inverter controller. AC asynchro
 
 
 
-Once the system, programmed with ATV Logic, is started, the ID is defined. After defining the ID, the ATV320 sends a response to other devices via MODBUS. Unfortunately, the GUI does not work without defining the address; please specify the address.
+Once the system, programmed with ATV Logic, is started, the ID is defined. After defining the ID, the ATV320 sends a response to other devices via MODBUS. Unfortunately, the GUI does not work without defining the address; please specify the address in SoMove program for ATV320 or others that you have.
 
 
 
