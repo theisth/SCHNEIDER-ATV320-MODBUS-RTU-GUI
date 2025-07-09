@@ -14,14 +14,14 @@ Firstly This GUI was used with Schneider ATV320 inverter controller. AC asynchro
 
 
 
-| Function | Address | Type |
-|---------|:--------:|:--------:|
-| AI1     |5242   | Volt     |
-| RCC  | 3202  | Hz  |
-| DEC  | 9002  | Sec.  |
-| ACC  | 9001  | Sec.  |
-| ULN  | 3207  | Volt  |
-| LCR | 3204  | Ampere  |
+| Function | Address | Type | Description |
+|---------|:--------:|:--------:|:--------:|
+| AI1     |5242   | Volt     | Volt     |
+| RCC  | 3202  | Hz  |Hz  |
+| DEC  | 9002  | Sec.  | Sec.  |
+| ACC  | 9001  | Sec.  | Sec.  |
+| ULN  | 3207  | Volt  | Sec.  |
+| LCR | 3204  | Ampere  | Sec.  |
 
 
 
