@@ -1,11 +1,10 @@
 # SCHNEIDER-ATV320-MODBUS-RTU-INTERFACE
 Schneider ATV320 Inverter Open Source AC Motor Control Interface 
 
-| Başlık 1 | Başlık 2 | Başlık 3 |
-|---------|:--------:|--------:|
-| Sol     | Ortada   | Sağ     |
-| 🍎     | 🍌       | 🍒     |
-| Yazı 1  | Yazı 2   | Yazı 3  |
+| Function | Address | Type |
+|---------|:--------:|:--------:|
+| AI1     |5242   | Volt     |
+| RCC  | 3202  | Hz  |
 
 
 
