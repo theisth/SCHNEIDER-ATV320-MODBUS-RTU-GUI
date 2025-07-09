@@ -4,7 +4,7 @@ Schneider ATV320 Inverter Open Source AC Motor Control GUI
 ## 8E1 MODBUS RTU ID:1
 
 
-Firstly This system
+Firstly This GUI was used with Schneider ATV320 inverter controller. AC asynchronous motor is driven by the driver. 
 
 
 
