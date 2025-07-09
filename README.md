@@ -23,8 +23,9 @@ Once the system, programmed with ATV Logic, is started, the ID is defined. After
 | ULN  | 3207  | Volt  | Main Line Voltage |
 | LCR | 3204  | Ampere  | Motor Current  |
 
+You can apply the addresses in this table using the programs in the link. The following image shows the sample application for addresses 9002 and 9001. For checking the MODBUS addresses: https://github.com/sanny32/OpenModScan 
 
-For checking the addresses: https://github.com/sanny32/OpenModScan 
+![image](https://github.com/user-attachments/assets/122a51c9-fa2b-40e6-a3ef-acb31df6d011)
 
 
 ![image](https://github.com/user-attachments/assets/aecc4ff6-186e-47a9-87df-9786e36399dd)
