@@ -16,12 +16,12 @@ Firstly This GUI was used with Schneider ATV320 inverter controller. AC asynchro
 
 | Function | Address | Type | Description |
 |---------|:--------:|:--------:|:--------:|
-| AI1     |5242   | Volt     | Volt     |
-| RCC  | 3202  | Hz  |Hz  |
-| DEC  | 9002  | Sec.  | Sec.  |
-| ACC  | 9001  | Sec.  | Sec.  |
-| ULN  | 3207  | Volt  | Sec.  |
-| LCR | 3204  | Ampere  | Sec.  |
+| AI1     |5242   | Volt     | Analog Input 1 |
+| RCC  | 3202  | Hz  |Motor Herthz  |
+| DEC  | 9002  | Sec.  | Deceleration Ramp Time|
+| ACC  | 9001  | Sec.  | Acceleration Ramp Time|
+| ULN  | 3207  | Volt  | Main Line Voltage |
+| LCR | 3204  | Ampere  | Motor Current  |
 
 
 
